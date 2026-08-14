@@ -11,3 +11,4 @@ General-purpose Graph Temporal Neural Network implementation in MATLAB (built fr
 #### project 3: GTNN_C++
 Purpose: Traffic Forecasting
 Implementation: Graph Temporal Neural Network algorithm in C++ (built from scratch)
+Run: "LA Traffic Prediction/GTNN_C++_METRLA_TrafficPred/GTNN_C++/GTNN_C++/main.cpp"
