@@ -9,7 +9,7 @@
 
 #### project 2: GTNN_MATLAB
 - Purpose: General-purpose Graph Temporal Neural Network implementation in MATLAB (built from scratch)
-- Run: 
+- Run: "2023_URSCA_Research_Project/LA Traffic Prediction/GTNN_MATLAB/main.m"
 
 #### project 3: GTNN_C++
 - Purpose: Traffic Forecasting
